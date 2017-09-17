@@ -43,6 +43,9 @@
 .bs-callout-history h4 {
     color: #dc3545;
 }
+.bs-callout-history h6 {
+    color: #dc3545;
+}
 
 .bs-callout-plus {
     border-left-color: #ffc107;
