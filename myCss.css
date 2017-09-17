@@ -20,6 +20,14 @@
     color: #868e96;
 }
 
+.bs-callout-historyItem {
+    border-left-color: #868e96;
+	border-right-color: #868e96;
+}
+.bs-callout-historyItem h5 {
+    color: #868e96;
+}
+
 .bs-callout-summary {
     border-left-color: #007bff;
 	border-right-color: #007bff;
@@ -41,9 +49,6 @@
 	border-right-color: #dc3545;
 }
 .bs-callout-history h4 {
-    color: #dc3545;
-}
-.bs-callout-history h6 {
     color: #dc3545;
 }
 
