@@ -20,51 +20,65 @@
 }
 
 .bs-callout-contact {
-    border-left-color: #868e96;
-	border-right-color: #868e96;
+    border-left-color: red;
+	border-right-color: red;
 }
 .bs-callout-contact h4 {
-    color: #868e96;
-}
-
-.bs-callout-historyItem {
-    border-left-color: #868e96;
-	border-right-color: #868e96;
-}
-.bs-callout-historyItem h5 {
-    color: #868e96;
+    color: red;
 }
 
 .bs-callout-summary {
-    border-left-color: #007bff;
-	border-right-color: #007bff;
+    border-left-color: orange;
+	border-right-color: orange;
 }
 .bs-callout-summary h4 {
-    color: #007bff;
+    color: orange;
+}
+
+.bs-callout-keywords {
+    border-left-color: #FFD800;
+	border-right-color: #FFD800;
+}
+.bs-callout-keywords h4 {
+    color: #FFD800;
 }
 
 .bs-callout-education {
-    border-left-color: #28a745;
-	border-right-color: #28a745;
+    border-left-color: green;
+	border-right-color: green;
 }
 .bs-callout-education h4 {
-    color: #28a745;
+    color: green;
 }
 
 .bs-callout-history {
-    border-left-color: #dc3545;
-	border-right-color: #dc3545;
+    border-left-color: blue;
+	border-right-color: blue;
 }
 .bs-callout-history h4 {
-    color: #dc3545;
+    color: blue;
+}
+
+.bs-callout-historyItem {
+    border: 1px solid #eee;
+    border-left-width: 1px;
+	border-right-width: 1px;
 }
 
 .bs-callout-plus {
-    border-left-color: #ffc107;
-	border-right-color: #ffc107;
+    border-left-color: indigo;
+	border-right-color: indigo;
 }
 .bs-callout-plus h4 {
-    color: #ffc107;
+    color: indigo;
+}
+
+.bs-callout-next {
+    border-left-color: violet;
+	border-right-color: violet;
+}
+.bs-callout-next h4 {
+    color: violet;
 }
 
 
