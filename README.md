@@ -1,1 +1,5 @@
-# Personal page and my CV [![Codacy Badge](https://api.codacy.com/project/badge/Grade/60ac0bed75c74cf9810991a0f7d6ac96)](https://www.codacy.com/app/lfmachadodasilva/lfmachadodasilva.github.io?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=lfmachadodasilva/lfmachadodasilva.github.io&amp;utm_campaign=Badge_Grade) [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/lfmachadodasilva/lfmachadodasilva.github.io.svg)](http://isitmaintained.com/project/lfmachadodasilva/lfmachadodasilva.github.io "Average time to resolve an issue") [![Percentage of issues still open](http://isitmaintained.com/badge/open/lfmachadodasilva/lfmachadodasilva.github.io.svg)](http://isitmaintained.com/project/lfmachadodasilva/lfmachadodasilva.github.io "Percentage of issues still open")
+## Luiz Felipe Machado da Silva
+
+### My name if Luiz Felipe and I'm software developer who loves tv series, coffee, beer and good food.
+
+[link](https://lfmachadodasilva.github.io/)

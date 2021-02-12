@@ -1,0 +1,19 @@
+body {
+  background-color: #010409;
+  font-family: Ubuntu;
+}
+
+h1 {
+  color: white;
+}
+
+.my-photo {
+  width: 250px;
+  height: auto;
+  border-radius: 10%;
+}
+
+.my-icon {
+  width: 30px;
+  height: auto;
+}
