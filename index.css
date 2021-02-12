@@ -1,10 +1,13 @@
 body {
-  background-color: #010409;
+  background-color: #292828;
   font-family: Ubuntu;
 }
 
 h1 {
   color: white;
+}
+h4 {
+  color: #cccccc;
 }
 
 .my-photo {
